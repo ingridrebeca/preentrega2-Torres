@@ -174,4 +174,5 @@ h4{
 footer{
     background-color: hotpink;
     text-align: left;
+    justify-items: center;
 }
